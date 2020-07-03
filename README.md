@@ -10,7 +10,7 @@
  4.  seaborn 
  5.  scipy
  
-## Tasks Performed in this project -- 
+## 🧿Tasks Performed in this project -- 
 
   - Exploring the dataset
   - Feature Selection
