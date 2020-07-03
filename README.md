@@ -11,3 +11,16 @@
  5.  scipy
  
 ## Tasks Performed in this project -- 
+
+  - Exploring the dataset
+  - Feature Selection
+  - Visualization
+  - Correlation matrix
+    - heatmap
+  - Implementing Algorithms
+    - Isolation Forest
+    - Local Outlier Factor
+  - Fit the model
+  - Classification metrics
+  
+
